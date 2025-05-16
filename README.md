@@ -64,5 +64,8 @@ git commit -m "[1주차] Hello World / 상 / 1분" -m "https://www.acmicpc.net/p
 <br />
 
 ## 📌 참여자와 진행도
-
+## Team
+|<img src="https://avatars.githubusercontent.com/u/92625845?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/211655416?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/108114351?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/153744936?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/118596886?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/204812467?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/182756186?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|YEOUL<br/>[@YEOUL0520](https://github.com/YEOUL0520)|[@YuMinBee](https://github.com/YuMinBee)|seohee<br/>[@sseoh47](https://github.com/sseoh47)|AHW<br/>[@NotHyoone](https://github.com/NotHyoone)|Hyelim<br/>[@hyellm](https://github.com/hyellm)|[@haycho33](https://github.com/haycho33)|[@owhat02](https://github.com/owhat02)|
 
