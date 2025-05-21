@@ -10,14 +10,14 @@ class Solution {
         }
 
         //각 자리로의 이동 계산
-        int move = name.length()-1;
-        for (int x = 0; x<name.length(); x++){
+        int move = name.length()-1; //1
+        for (int x = 0; x < name.length(); x++){
             int next = x+1;
             while (next <name.length() && name.charAt(next) == 65){
                 next++;
             }
             //동시에 3개 비교 불가, 1-2 비교후 그 결과값과 3을 다시 비교
-            move = Math.min(move, x*2+name.length()-next);
+            move = Math.min(move, x*2 + name.length()-next);
             move = Math.min(move, (name.length()-next)*2+x);
         }
         answer += move;
